@@ -1,0 +1,10 @@
+{
+  "token": "MTEyNTQ0MjAxNDIwMTI2NjI4Nw.GAQGHn.rEWpfJ7v8lzD751x09n7qeu9litiruLR2g9fso",
+  "clientId": "1125442014201266287",
+  "vmid": 8042,
+  "PROXMOX_API_URL": "https://85.208.114.170:8006/api2/json",
+  "USERNAME": "root@pam",
+  "PASSWORD": "T3K*w5CkVi2usZudTrW@",
+  "NODE": "pve",
+  "VMID_TO_CLONE": "8000"
+}
